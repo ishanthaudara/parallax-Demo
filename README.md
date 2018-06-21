@@ -1,3 +1,2 @@
-# parallax-Demo
+# Parallax Effect Demonstration
 
-it is form dev tips tuts.
