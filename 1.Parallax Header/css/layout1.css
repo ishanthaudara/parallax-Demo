@@ -17,4 +17,9 @@ figure {
 img {
   max-width: 100%; }
 
+.bird-box {
+  position: relative;
+  height: 600px;
+  background-image: url(images/bird-bg.jpg); }
+
 /*# sourceMappingURL=layout1.css.map */
